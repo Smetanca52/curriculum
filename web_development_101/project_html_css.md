@@ -1536,7 +1536,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Tyler-Duckworth's solution](https://github.com/Tyler-Duckworth/google-homepage) - [View in browser](https://tyler-duckworth.github.io/google-homepage/)
 * [AdamDevAdam's solution  (Easy)](https://github.com/AdamDevAdam/google-homepage) - [View in Browser](https://adamdevadam.github.io/google-homepage/) - [View in Browser - RawGit](https://cdn.rawgit.com/AdamDevAdam/google-homepage/d23c5a50/index.html)
 * [Otherwise__'s solution (Easy)](https://github.com/borowyalan/google-homepage) - [View in Browser](https://borowyalan.github.io/google-homepage/)
-
+* [Ivan Smetanca's solution](https://github.com/Smetanca52/google-homepage) - [View in Browser]
+(https://smetanca52.github.io/google-homepage/)
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
